@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Anabaptists printed proposals bearing date the 12th of October, 1674. Subscribed by William Kiffin, Jeremy Ives, Thomas Plant, Thomas Hicks and Daniel Dike. Briefly discussed: and Jeremy Ives's late daring challenge to the Quakers, answered. By a lover of truth, T. Rudyard.</title>
+            <author>Rudyard, Thomas, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57815</idno>
+            <idno type="STC">Wing R2175</idno>
+            <idno type="STC">ESTC R220592</idno>
+            <idno type="EEBO-CITATION">99831988</idno>
+            <idno type="PROQUEST">99831988</idno>
+            <idno type="VID">36455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36455)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2132:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Anabaptists printed proposals bearing date the 12th of October, 1674. Subscribed by William Kiffin, Jeremy Ives, Thomas Plant, Thomas Hicks and Daniel Dike. Briefly discussed: and Jeremy Ives's late daring challenge to the Quakers, answered. By a lover of truth, T. Rudyard.</title>
+                  <author>Rudyard, Thomas, d. 1692.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed, 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by Wing.</note>
+                  <note>Caption title on p. 3 reads: The Anabaptists printed proposals briefly discussed: bearing date the twelfth of October, 1674.</note>
+                  <note>"An answer to Jeremy Ives's challenge" has caption title on p. 17.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ives, Jeremiah, fl. 1653-1674. --  Sober request to the Quakers --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Anabaptists --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36455:1"/>
+            <p>THE ANABAPTISTS Printed Propoſals, BEARING Date the 12th of <hi>October,</hi> 1674.</p>
+            <p>Subſcribed by
+<list>
+                  <item>
+                     <hi>William Kiffin,</hi>
+                  </item>
+                  <item>
+                     <hi>Jeremy Ives,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Plant,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hicks</hi> and <hi>Daniel Dike.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Briefly Diſcuſſed: AND <hi>Jeremy Ives</hi>'s late <hi>Daring Chal<g ref="char:EOLhyphen"/>lenge</hi> to the <hi>Quakers,</hi> Anſwered.</p>
+            <p>
+               <hi>By a Lover of Truth,</hi> T. Rudyard.</p>
+            <p>Printed, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:36455:2"/>
+            <pb n="3" facs="tcp:36455:2"/>
+            <head>THE ANABAPTISTS printed Propoſals Briefly Diſcuſſed: Bearing Date the Twelfth of <hi>October,</hi> 1674.</head>
+            <p>HAd your Actions been <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> or at leaſt worthy of Men, you had not been put to theſe mean <hi>Shifts</hi> to cover your Un<g ref="char:EOLhyphen"/>worthineſs: Why tell you the World of your Deſire, <hi>That thoſe Particulars charged by us againſt</hi> Tho. Hicks <hi>might be fully ſpoken to,</hi> when your Actions as well before, as ſince your Paper,
+<pb n="4" facs="tcp:36455:3"/>give ample <hi>Teſtimony</hi> to the contrary?</p>
+            <p n="1">
+               <hi>1ſt,</hi> At the <hi>Barbican-Meeting</hi> the <hi>9th</hi> Inſtant, did not you and your <hi>Confe<g ref="char:EOLhyphen"/>derates</hi> uſe your utmoſt Endeavours to avoid a Diſcuſſion of thoſe palpable <hi>Forgeries, Lyes, Slanders, &amp;c.</hi> char<g ref="char:EOLhyphen"/>ged upon <hi>T. H?</hi> You know it, and hundreds there can witneſs it.</p>
+            <p n="2">
+               <hi>2dly,</hi> And how willing you are for the Tryal or Diſquiſition of <hi>T. H.</hi> his <hi>Actions,</hi> was further verified by your Behaviour at <hi>Wheeler-Street</hi>-Meeting the 16th Inſtant (whence <hi>T. Hicks</hi> ab<g ref="char:EOLhyphen"/>ſenting himſelf) ye ſpent no leſs then five or ſix Hours in Abuſive <hi>Shuffles</hi> and <hi>Evaſions,</hi> mixt with <hi>loud Outcries</hi> whenever we attempted to read our Charge or Complaint againſt him (although we forbore till <hi>J. Ives</hi> de<g ref="char:EOLhyphen"/>clared, he then perſonated <hi>him</hi> in his Abſence.)</p>
+            <p>We are ſenſible <hi>T. H.</hi> and your late <hi>Actions</hi> will not endure a publick <hi>Diſ<g ref="char:EOLhyphen"/>quiſition,</hi> and ours ſeeks no Corners, which occaſion ſo vaſt a Diſtance in
+<pb n="5" facs="tcp:36455:3"/>yours and our preſent Apprehenſions of what is moſt ſutable to attain our reſpective Ends: You pretend, yours is <hi>To clear the Truth, and to Profit them that hear;</hi> and ſo ſay we alſo: And what then? Shall we be <hi>Publickly</hi> Belyed, Traduced and Abuſed, and <hi>Privately</hi> have Satisfaction? We could be content with a <hi>Little</hi> rather then <hi>None</hi> at all: But could you call an Aſſembly of ſome Thouſands of People, to <hi>Debauch</hi> their Judgments, and <hi>Leven</hi> their Underſtandings into <hi>Envy</hi> and <hi>Prejudice</hi> againſt us, and pro<g ref="char:EOLhyphen"/>poſe 50. or 60. excluding all others to be Witneſſes of your own, or our Guilt or Innocency in the Matter; Is this the Way to clear the <hi>Truth</hi> &amp; pro<g ref="char:EOLhyphen"/>fit the <hi>Hearers?</hi> O abominable Deceit! O horrid Partiality! Its too apparent your <hi>Ends</hi> are as black as your <hi>Begin<g ref="char:EOLhyphen"/>nings,</hi> and each deſigned to center in <hi>Abuſe.</hi> I muſt tell you, however ſome Particulars of you have eſpou<g ref="char:EOLhyphen"/>ſed this <hi>Forger,</hi> &amp;c. yet amongſt
+<pb n="6" facs="tcp:36455:4"/>you, there is not a few, who heartily grieve and trouble, not only at his <hi>Forgery,</hi> &amp;c. but your <hi>Confederacy;</hi> and many more ſober &amp; judicious Perſons are perſwaded, that the Way to clear your <hi>Innocency,</hi> will not be, to cover his <hi>Guilt, Fiat Juſtitia, &amp; pereat mundus.</hi>
+            </p>
+            <p>As for your <hi>Propoſals</hi> (being calcu<g ref="char:EOLhyphen"/>lated for a private <hi>Cabal</hi> or <hi>Conventicle</hi>) with ſmall Amendments, may paſs as fit <hi>Mediums</hi> for an orderly Diſpute or Diſquiſition of the Matter betwixt us; only to your 9th Propoſition, I cannot but particularly enquire into its Reaſon, or at leaſt your, for the propoſing of it: It runs thus, viz.</p>
+            <q>
+               <hi>And when your Paper is anſwered, that</hi> G. Whitehad <hi>and</hi> W. Penn <hi>be oblieged to give their Anſwers to ſuch Charges as</hi> T. Hicks <hi>ſhall exhibit againſt them.</hi>
+            </q>
+            <p>To this I ſay; Had you a <hi>Star-Chamber-Court,</hi> or the <hi>Eccleſiaſticks</hi> Oath, <hi>Ex Officio</hi> to impoſe? Did your Authority comprehend thoſe mini<g ref="char:EOLhyphen"/>ſterial
+<pb n="7" facs="tcp:36455:4"/>
+               <hi>Offices</hi> of <hi>Judges</hi> or <hi>Juſtices</hi> of the civil Peace, your Blind <hi>Propoſition</hi> at firſt Sight, might have paſſed as a tolerable <hi>Impoſition</hi> upon us: But at this Seaſon, when the <hi>Laws</hi> (under which we live) have made us better Terms, then to be Self-<hi>Aſſaſſinates;</hi> and Providence has ſo far ſuſpended your <hi>Authority</hi> in Civils, that you are incapacitated to <hi>recognizance</hi> us into your Obedience, I ſay, to be <hi>oblieged</hi> to give Anſwer, before they know whether <hi>T. Hicks</hi>'s Charge will relate to Civil or Religious Concerns, to Matter proper for their <hi>Debate,</hi> or Things <hi>inquiſitory</hi> inconſiſtent to their preſent <hi>Conteſts,</hi> is moſt unreaſona<g ref="char:EOLhyphen"/>ble, illegal, yea irreligious to <hi>impoſe:</hi> It is but a Taſte of what Diſſenters (had you Power, which you want) muſt receive from your Hands; And whence, unleſs from the <hi>Acts</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>'s late High <hi>Commiſſion</hi> Court, you pikt up your <hi>Propoſition,</hi> it's not eaſily determinable.</p>
+            <pb n="8" facs="tcp:36455:5"/>
+            <p>But what is <hi>T. H</hi>'s Conceit to pro<g ref="char:EOLhyphen"/>vide ſo long aforehand, that (after our Charge exhibited againſt him fr <hi>Forgery,</hi> &amp;c. is anſwered) <hi>W. P.</hi> &amp; <hi>C. W. be oblieged to Anſwer, &amp;c?</hi> Is he afraid that two Years <hi>Dialoguing</hi> has not pumpt him dry in his <hi>baſe Attempts,</hi> as well upon our <hi>Civil</hi> as <hi>Religious</hi> Rights? or that he has yet more to vent? or rather, after all, that he muſt fly to the Aſſiſtance of an <hi>In<g ref="char:EOLhyphen"/>quiſition</hi> to make good his <hi>Charge</hi> a<g ref="char:EOLhyphen"/>gainſt us; elſe to <hi>foreſtall</hi> our Time to diſcuſs the Conſiſtency of his <hi>Sen<g ref="char:EOLhyphen"/>timents</hi> with ſound <hi>Doctrine</hi> and pure <hi>Religion? W. Kiffin</hi> &amp; <hi>J. Ives,</hi> you might do well to give us the <hi>Reaſon</hi> induced you to be ſo peremptory upon us, with ſo <hi>unreaſonable</hi> and <hi>illegal</hi> a Propoſition.</p>
+            <p>I cannot but <hi>remind</hi> you of your late Abuſe, in expending ſo much Time about the Title of a Book, and rather do it now, That if we meet hereafter we may be excuſed the hearing ſuch
+<pb n="9" facs="tcp:36455:5"/>needleſs <hi>Cavils.</hi> Our firſt Charge againſt T. H. is thus, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>A Dialogue betwixt a</hi> Chriſtian <hi>and a</hi> Quaker (yet made by <hi>T. Hicks</hi>) <hi>viz. Wherein</hi> (ſaith he) <hi>is faithfully repre<g ref="char:EOLhyphen"/>ſented, &amp;c.</hi>
+            </p>
+            <p n="1">1. I ſay, <hi>A Dialogue</hi> is nothing elſe then a <hi>Diſcourſe</hi> betwixt two, three or more, which a Stander by may write and publiſh for others Information.</p>
+            <p n="2">2. But to acquaint my Reader I write <hi>Dialogue-wiſe,</hi> is to inform, that there was not ſuch <hi>real Diſcourſe,</hi> but only my own <hi>Sentiments</hi> of the Perſons or Things I would <hi>Repreſent.</hi>
+            </p>
+            <p>
+               <hi>T. Hicks</hi> his Books were really his own <hi>Sentiments,</hi> yet he preſents it to the World, as a <hi>Real</hi> Diſcourſe; and as a <hi>Real Dialogue,</hi> or <hi>Diſcourſe,</hi> are they frequently received, and brought as <hi>Proofs</hi> againſt us in the Parts where they are ſpread abroad, as the Words of a Real <hi>Quaker.</hi>
+            </p>
+            <p>This Point have we already deba<g ref="char:EOLhyphen"/>ted, ſhewing the Difference betwixt
+<pb n="10" facs="tcp:36455:6"/>
+               <hi>Catechiſms</hi> and <hi>Diſcourſes</hi> by Way of <hi>Dialogue,</hi> &amp; Real <hi>Dialogues,</hi> as <hi>T. H.</hi> pre<g ref="char:EOLhyphen"/>ſents his, and therein ſufficiently hath manifeſted his Abuſe. I call, as fur<g ref="char:EOLhyphen"/>ther Witneſs, <hi>W. L</hi>'s Letter to <hi>J. Ives: We ſaw him foyl'd</hi> (ſayes W. L.) <hi>in his firſt Attempt to prove his Way of Wri<g ref="char:EOLhyphen"/>ting; for as Mr.</hi> Penn <hi>truly ſaid, there is a vaſt Difference betwixt a</hi> Dialogue <hi>compoſed for Information, and one for Diſputation: In the firſt I write my own Judgment; in the other an Adverſary's.</hi> And with your Learned Brother's Judgment, I leave this Particular, which is one Part of that Charge.</p>
+            <p>The next thing therein conſidera<g ref="char:EOLhyphen"/>ble, after his Manner of Writing, is the <hi>Matter,</hi> and that lay on our Parts to prove <hi>Fictitious:</hi> And whereas <hi>T. H.</hi> ſaith, In his Dialogue <hi>is faithfully re<g ref="char:EOLhyphen"/>preſented the</hi> Quakers <hi>Opinions,</hi> We are ready to make out, that he has moſt treacherouſly <hi>miſrepreſented</hi> us; and inſtead of giving an Account of our <hi>Principles,</hi> he has feigned and for<g ref="char:EOLhyphen"/>ged
+<pb n="11" facs="tcp:36455:6"/>
+               <hi>Principles</hi> that are not ours, for which we appealed, or called to the <hi>Anabaptiſts</hi> for Juſtice; This is our Matter of <hi>Charge;</hi> this are we ready to prove, if you would ſtand the <hi>Teſt;</hi> if you will abide to <hi>hear</hi> us.</p>
+            <p>But inſtead thereof, you delay us with <hi>Impoſing</hi> your <hi>Reaſons</hi> why you oppoſe the <hi>Chriſtian</hi> to the <hi>Quaker:</hi> To which I ſay, Your oppoſing them no wayes troubles us, but <hi>T. H</hi>'s ma<g ref="char:EOLhyphen"/>king a <hi>Counterfeit Chriſtian</hi> and a <hi>falſe Quaker:</hi> This is Matter of <hi>Fact,</hi> and we are ready to prove it againſt him; but that a Real <hi>Chriſtian</hi> oppoſeth a Real <hi>Quaker,</hi> we deny.</p>
+            <p>But what is this Oppoſition to the Charge of <hi>Forgery, &amp;c.</hi> againſt <hi>T. H?</hi> Suppoſe a <hi>Dialogue</hi> had been made betwixt <hi>W. K.</hi> and <hi>J. Ives</hi> (who in Principles (although now <hi>Confede<g ref="char:EOLhyphen"/>rates</hi>) differ more then a real <hi>Chriſtian</hi> and <hi>Quaker</hi>) had it been reaſonable, if <hi>either</hi> Party had traduced the <hi>other,</hi> and the Perſon wrong'd called for
+<pb n="12" facs="tcp:36455:7"/>
+               <hi>Juſtice,</hi> that the <hi>Malefactor</hi> ſhould take up whole Days of Diſcourſe with his Reaſons for oppoſing their two <hi>Names</hi> (a Thing not worth Diſcourſe) there<g ref="char:EOLhyphen"/>by diverting the Complainants <hi>Charge,</hi> and himſelf from being called to Judgment? but this is their Deal<g ref="char:EOLhyphen"/>ing with us.</p>
+            <p>The <hi>Subſtance</hi> of our <hi>Complaint</hi> is for <hi>T. H</hi>'s <hi>Fictions, Forgeries, Lyes, Slan<g ref="char:EOLhyphen"/>ders</hi> and <hi>Abuſes;</hi> As for his oppoſing <hi>Chriſtian</hi> to <hi>Quaker,</hi> is but a <hi>Circum<g ref="char:EOLhyphen"/>ſtance,</hi> and how ſuitable to his preſent Enterprize, will appear, when the <hi>Anabaptiſt</hi> has cleared himſelf of the <hi>Forgeries,</hi> &amp;c. charged upon him, or we prove him <hi>guilty</hi> thereof: And when our Innocency or Guilt (by a full Diſquiſition of the Matter in Controverſie) is <hi>manifeſted,</hi> it will be eaſy to determine which of us merits the Name of <hi>Chriſtian,</hi> and which of the Name <hi>Quaker;</hi> or whether the <hi>Anabaptiſt</hi> be the <hi>Counterfeit,</hi> or <hi>Qua<g ref="char:EOLhyphen"/>ker</hi> the Real <hi>Chriſtian.</hi>
+            </p>
+            <pb n="13" facs="tcp:36455:7"/>
+            <p>But ſuppoſe we are not <hi>Chriſtians</hi> in your <hi>Senſe,</hi> or of your <hi>Dipping;</hi> are we therefore none? But ſuppoſe, none at all, according to your preſent Sen<g ref="char:EOLhyphen"/>timents of us, but <hi>Jews,</hi> profeſt <hi>Turks</hi> or <hi>Heathens,</hi> as you would have us, ſhall not your Brother anſwer for his <hi>Forgeries, Lyes,</hi> and <hi>Slanders?</hi> Is it your Belief, that an <hi>Heretick</hi> deſerves no <hi>Law,</hi> no <hi>Juſtice,</hi> no <hi>Equity</hi> from or againſt Men of your Caſt? ye ſhould do well to explain; for I aſſure you, it ſmells of your Predeceſſors.</p>
+            <p>But if no <hi>Arguments</hi> will induce you to do us that common <hi>Right,</hi> that equal <hi>Juſtice</hi> that a <hi>Heathen</hi> would not deny us; but you will ſtill <hi>divert</hi> our Charge, and <hi>interpoſe</hi> ſuch Diſcourſe, as may tire the Auditory, and cover your In<g ref="char:EOLhyphen"/>famous Brother, and conſequently his Abettors: If inſtead of hearing our Charge, and anſwering our reaſonable Demand, you would prove us No <hi>Chriſtians,</hi> and bid us take that for Anſwer; I propoſe, as neceſſary, in
+<pb n="14" facs="tcp:36455:8"/>order thereto, That you tell us what ſort of <hi>Chriſtian</hi> (yet mean) the <hi>Quaker</hi> is not: explain your ſelves to the World, <hi>What</hi> and <hi>Who</hi> is a true <hi>Chriſtian;</hi> and (you denying <hi>Inward Evidence &amp; Reve<g ref="char:EOLhyphen"/>lation</hi>) tell us, whether <hi>Faith</hi> &amp; <hi>Works,</hi> or <hi>Principle</hi> and <hi>Practice,</hi> or <hi>Pretended Faith</hi> and <hi>Principles</hi> without <hi>Works</hi> or <hi>Practice,</hi> make a Real <hi>Chriſtian;</hi> which may ſerve for a <hi>Looking-Glaſs,</hi> as well for your ſelves, as for us: I ſpeak particularly to you, who are many <hi>Heads</hi> confederated this day <hi>againſt us,</hi> Each Sect claims the <hi>Name;</hi> but who has the <hi>Nature</hi> in your Senſe? Therefore anſwer plainly, without Equivocation or Evaſion, what you mean by <hi>Chriſtian.</hi>
+            </p>
+            <list>
+               <item>1. Do ye mean the <hi>Presbyterian</hi> (ſo called) with his <hi>Directory?</hi>
+               </item>
+               <item>2. Or, do you mean the <hi>Independent</hi> with his <hi>Savoy-Confeſſion?</hi>
+               </item>
+               <item>3. Or, do you mean the <hi>Anabaptiſt</hi> with his ſeveral &amp; various promulged <hi>Siſtems</hi> of <hi>Faith?</hi>
+               </item>
+               <pb n="15" facs="tcp:36455:8"/>
+               <item>4. Or, do you mean thoſe that tell us, We muſt DIP with them, as <hi>ne<g ref="char:EOLhyphen"/>ceſſary to Salvation?</hi>
+               </item>
+               <item>5. Or, do you mean <hi>Such</hi> that hold, <hi>Chriſt dyed not for all, nor was an Univer<g ref="char:EOLhyphen"/>ſal Sacrifice for all Mankind?</hi>
+               </item>
+               <item>6. Or, do ye mean <hi>Such</hi> that pro<g ref="char:EOLhyphen"/>feſs their Faith, <hi>That Millions of People are Damned; or at leaſt, left without Means of Salvation by Eternal Decree, before they Knew or Acted Good or Evil?</hi>
+               </item>
+               <item>7. Or, do you mean <hi>Such</hi> that <hi>Deny the Divinity of our Lord and Savi<g ref="char:EOLhyphen"/>our Jeſus Chriſt,</hi> and that he <hi>was not One with the Father in Glory before the World was?</hi>
+               </item>
+            </list>
+            <p>It is not my Purpoſe to draw you out beyond the Bounds of the <hi>Faiths</hi> or <hi>Beliefs</hi> of the preſent <hi>Confederacy;</hi> therefore I wave to mention ſuch Sorts as are termed, the <hi>Church</hi> of <hi>En<g ref="char:EOLhyphen"/>gland</hi> or &amp;c. All I deſire or expect from you at preſent, is, to be plain and particular, which of theſe forementi<g ref="char:EOLhyphen"/>oned, or what others by Faith &amp; Pra<g ref="char:EOLhyphen"/>ctice
+<pb n="16" facs="tcp:36455:9"/>are the <hi>Real</hi> and <hi>True,</hi> and which, and how many of theſe <hi>Impoſtors;</hi> or if all, declare it, that our <hi>Audi<g ref="char:EOLhyphen"/>tors</hi> upon your Attempts to prove us No <hi>Real Chriſtians,</hi> may be capable to judge, whether you Act like <hi>Real Chriſtians,</hi> or <hi>Stagers</hi> againſt <hi>Chriſtianity;</hi> that we may ſee, whether, whilſt you are <hi>Unchriſtianing</hi> others, you <hi>heathe<g ref="char:EOLhyphen"/>niſe</hi> not your Confederates or others that merit the Name better then your ſelves: Let us have it under all your Hands, that other Judicious and In<g ref="char:EOLhyphen"/>different Perſons, as well as your ſelves, may be capable to Judge be<g ref="char:EOLhyphen"/>twixt you and us in this Matter of Controverſie.</p>
+            <closer>
+               <signed>T. R.</signed>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the <hi>24th</hi> of the <hi>8th</hi> Month, 1674.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="tract">
+            <pb n="17" facs="tcp:36455:9"/>
+            <head>AN ANSWER TO Jeremy Ives's CHALLENGE.</head>
+            <p>THis prior Diſcourſe was no ſoo<g ref="char:EOLhyphen"/>ner finiſh't, then a Sheet of <hi>Jer. Ives</hi> (tituled, <hi>A Sober Requeſt to the Quakers</hi>) was crying about the Streets: And although what I have here alrea<g ref="char:EOLhyphen"/>dy writ, might ſerve as <hi>Anſwer;</hi> yet to avoid Cauſe of <hi>Cenſure,</hi> that we diſdain to (or cannot Anſwer) him, I have a few Lines to <hi>Jeremy</hi> and his Paper.</p>
+            <p>But previous thereto I muſt tell thee, my Reader, <hi>J. Ives</hi> is neither
+<pb n="18" facs="tcp:36455:10"/>the <hi>Perſon</hi> with whom our publick Conteſt is, nor one of the <hi>Juages</hi> that pretended to anſwer our Appeal to the <hi>Anabaptiſts,</hi> for Juſtice againſt <hi>Thomas Hicks;</hi> but a <hi>Perſon</hi> (as ſuited for ſuch a Service) of late liſted in, as an <hi>Au<g ref="char:EOLhyphen"/>niliary</hi> to defend <hi>T. H.</hi> or Oppoſe our Charge againſt <hi>Him;</hi> and as a ſuita<g ref="char:EOLhyphen"/>ble <hi>Medium</hi> thereto, he would divert our Purſuit againſt <hi>T. H.</hi> by anſwer<g ref="char:EOLhyphen"/>ing to his Allure.</p>
+            <p>But as to his Printed Piece, He or the Printer has termed it, <hi>A Sober Requeſt;</hi> and how correſpondent the Name or Title is to the Nature or Kind thereof, it ſelf will beſt demon<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>§. 1. If he means by <hi>Sober Re<g ref="char:EOLhyphen"/>queſt,</hi> that Expreſſion of his, <hi>if you dare appoint a Time and Place, &amp;c.</hi> its paſt my Skill to find the Correſpon<g ref="char:EOLhyphen"/>dency of the <hi>Body</hi> of his Sheet to its <hi>Head</hi> or <hi>Title:</hi> But if <hi>Daring to Ap<g ref="char:EOLhyphen"/>point,</hi> be the beſt Terms the <hi>Anabaptiſt</hi>
+               <pb n="19" facs="tcp:36455:10"/>can invite us to a Religious Diſcourſe, I muſt declare, his Language is ſo far from being <hi>Scriptural,</hi> that it comes ſhort of the <hi>common Hectors</hi> or <hi>Sword<g ref="char:EOLhyphen"/>men</hi> of our Time, who for perſonal Affronts will challenge the Field with much better and more modeſt Lan<g ref="char:EOLhyphen"/>guage.</p>
+            <p>§. 2. But how <hi>Sober</hi> is his Requeſt? Its but to appoint a Time or Place for him, to prove us No <hi>Chriſtians,</hi> and <hi>our Miniſters, Impoſtors,</hi> &amp;c. Very mo<g ref="char:EOLhyphen"/>deſt <hi>Jeremy!</hi> in very good Time. Then it ſeems, for all thy large Boaſts and high Rants, its not yet done, but thou propoſeſt to do it: and why a freſh or particular Challenge for this? What! haſt thou already forgot the two ſeveral Meetings that thy Imper<g ref="char:EOLhyphen"/>tinency has abuſed, and diverted from their particular Occaſions by preſſing to this Diſcourſe, and yet complains? Waſt thou not heard at <hi>Barbican</hi> the 9th Inſtant, not only what thou
+<pb n="20" facs="tcp:36455:11"/>couldſt ſay againſt us, but till thou hadſt fully catechized us, as to our Belief of Chriſt, &amp;c? &amp; being anſwer'd to the Peoples Satisfaction (ſtill fail<g ref="char:EOLhyphen"/>ing in thy Attempt) left the Pulpet &amp; Aſſembly? Waſt thou not, <hi>Jeremy,</hi> ſufficiently heard at <hi>Wheeler-Street,</hi> the 16th. Inſtant (the Auditory can witneſs for us) upon that Subject? And was not the Sum or Cloſe of thy proving us no <hi>Chriſtians,</hi> a pittiful Re<g ref="char:EOLhyphen"/>treat, at laſt turning the Queſtion upon us, to give thee an Evidence of our be<g ref="char:EOLhyphen"/>ing ſo (which not liking thee, thou ap<g ref="char:EOLhyphen"/>provedſt as well as the faithleſs <hi>Jews</hi> did, the Teſtimony of <hi>Chriſt and his</hi> Followers) when thou hadſt failed of thy Promiſe and Attempt there alſo, thou fairly turnedſt thy <hi>Back</hi> upon the Argument and Aſſembly together? In Caſe thy Memory be Treacherous inquire of the Auditors, and the Re<g ref="char:EOLhyphen"/>lations already in Print, and they will help thy <hi>Underſtanding.</hi>
+            </p>
+            <p>But ſeeing the laſt Diſcourſe betwixt
+<pb n="21" facs="tcp:36455:11"/>thee and us upon this Subject (in ſome meaſure) iſſu'd or broke off in the Dif<g ref="char:EOLhyphen"/>ferent demonſtrating or evidencing a <hi>real and true Chriſtian,</hi> 'twill be but rea<g ref="char:EOLhyphen"/>ſonable <hi>J. I. W. K. T. P. T. H. &amp;c.</hi> the preſent <hi>Confederacy</hi> mutually in Wri<g ref="char:EOLhyphen"/>ting demonſtrate &amp; figure out the real and true <hi>Chriſtian,</hi> and the ſure &amp; cer<g ref="char:EOLhyphen"/>tain <hi>Evidence</hi> thereof, that the after Conteſt may not be, <hi>What</hi> one is, or <hi>how</hi> to be demonſtrated; but whether we are <hi>ſuch or no.</hi> And I muſt tell thee, if a holy Life, upright, honeſt &amp; a blameles Converſation among Men, be a Part, Member or Evidence of your <hi>Chriſtian,</hi> (as doubtleſs it is of a true one) I hear<g ref="char:EOLhyphen"/>tily give my Conſent, that <hi>J. Ives,</hi> being ſo capacitated (or as <hi>Joh.</hi> 8.7.) <hi>Caſt the firſt Stone.</hi>
+            </p>
+            <p>§. 3. But from the <hi>Manner</hi> and <hi>Terms</hi> of thy Challenge (<hi>Sober Re<g ref="char:EOLhyphen"/>queſt</hi> it is not) viz. <hi>If you dare appoint a Time and Place for that Purpoſe; and then appoint whom you will to diſpute the
+<pb n="22" facs="tcp:36455:12"/>Matter with me, provided none be admitted to ſpeak but us two — That a certain Hour be agreed for the Beginning, and another for the Ending —and neither Party exceed the Limits.</hi> From theſe a Reaſonable Underſtanding may meaſure the Height, Depth and Breadth of thy <hi>End,</hi> and the <hi>Zeal</hi> that led thee forth to this <hi>Enterprize.</hi> I muſt confeſs, ſuch Language &amp; Articles as theſe, might well paſs for a <hi>Bear-Garden-Prize,</hi> (though I have read more modeſt <hi>Terms</hi> in their Bills) but to come from an <hi>Anabaptiſt-Preacher,</hi> who pretends a more refined or <hi>Scriptural Rule</hi> for Diſcipline and Diſputes, it ſeems ſtrange and moſt abſurd: Where doſt thou find <hi>Jeremy,</hi> that any of the <hi>Prophets</hi> of the <hi>Lord</hi> (in the Adulterous Generation they lived in) ſent out ſuch <hi>Daring</hi> and ſingular <hi>Terms,</hi> to con<g ref="char:EOLhyphen"/>vert the miſguided <hi>Jews,</hi> or convince their <hi>Oppoſers?</hi> Or where did Chriſt or his Apoſtles ſend ſuch <hi>Challenge</hi> with Limitation to Perſons, Time &amp; Hours,
+<pb n="23" facs="tcp:36455:12"/>in Order to propagate the Everlaſting Goſpel, and anſwer Gainſayers? Or did ever the <hi>Quakers,</hi> when they firſt viſited your Aſſemblies make ſuch <hi>Terms</hi> with you? Find, if thou canſt, ſuch an Enſample from primitive <hi>Chriſtianity</hi> or Pattern in all the Holy Scriptures, except that of the <hi>Uncir cumciſed Philiſtine</hi> Goliah, defying the Army of <hi>Iſrael;</hi> it is true, he cry'd out for a <hi>ſingle Combatant,</hi> and dared ſuch to meet him, and he had his Reward accordingly.</p>
+            <p>I muſt tell thee, thy Actions &amp; Pa<g ref="char:EOLhyphen"/>per beſpeak thy Mind to be <hi>High</hi> and <hi>Lofty,</hi> inſtead of <hi>Meek</hi> and <hi>Lowly,</hi> the true <hi>Chriſtians</hi> Ornament; &amp; intimates thee rather a <hi>Stager</hi> againſt <hi>Religion,</hi> then a zealous <hi>Contender</hi> for <hi>true Reli<g ref="char:EOLhyphen"/>gion:</hi> And this is not my Mind only, but many, as well call'd by the Name of <hi>Baptiſts,</hi> as other diſcreet and ſo<g ref="char:EOLhyphen"/>ber Men, that have not a little cen<g ref="char:EOLhyphen"/>ſured thy cuſtomary Carriages, to ſtir up the People to <hi>Rudeneſs</hi> and <hi>Laughter</hi>
+               <pb n="24" facs="tcp:36455:13"/>at the late Diſputes, by the Sign of <hi>ſha<g ref="char:EOLhyphen"/>king thy Hand,</hi> or <hi>waving thy Hat over thy Head</hi> (call it what thou wilt) People ſay, it ſmells of <hi>Ranter</hi> or <hi>Atheiſm;</hi> And doubt not, but that thy thus treating us in Print, will rather confirm then ſhake their Opinions of thee: But what ſhall I ſay, <hi>Men gather not Grapes of Thorns, nor Figs of Thiſtles.</hi>
+            </p>
+            <p>§. 4. As to thoſe confident <hi>Inſinua<g ref="char:EOLhyphen"/>tions</hi> and baſe <hi>Aſſertions</hi> in thy printed <hi>Challenge,</hi> viz.</p>
+            <list>
+               <item>1. <hi>That</hi> W. Penn<hi>'s</hi> Confeſſion <hi>of Faith in Scripture-Language, was a meer</hi> Equivocation.</item>
+               <item>2. <hi>That our Former</hi> Opinions <hi>were Vile, Abſurd and Non-ſenſical; or that thou provedſt to our Face, they make void all Rules of</hi> Chriſtian <hi>Faith and Practice.</hi>
+               </item>
+               <item>3. <hi>Or, that by force of</hi> Argument <hi>thou hadſt drawn us to that Strait we could make no</hi> Reply.</item>
+               <item>4. <hi>Or, that former Books of</hi> Quakers <hi>declaredly own'd by us, contain in them</hi>
+                  <pb n="25" facs="tcp:36455:13"/>Doctrines <hi>no wayes reconcileable to</hi> Scri<g ref="char:EOLhyphen"/>pture-<hi>Language or</hi> Chriſtian <hi>Religion.</hi>
+               </item>
+               <item>5. <hi>That our</hi> Behaviour <hi>was Baſe and Inſolent in thy Abſence.</hi>
+               </item>
+            </list>
+            <p>Theſe I juſtly charge upon thee as <hi>Abominable Falſehoods</hi> and <hi>Notorius Un<g ref="char:EOLhyphen"/>truths,</hi> which thou and all thy <hi>Confede<g ref="char:EOLhyphen"/>rates</hi> are not able to prove or maintain.</p>
+            <p>And know, that it is not thy <hi>Confi<g ref="char:EOLhyphen"/>dent</hi> &amp; <hi>Bold Aſſertions</hi> that are at this day <hi>Proofs</hi> or <hi>Evidences</hi> againſt us; thou wilt reap no other Effect then the <hi>Bel<g ref="char:EOLhyphen"/>ching out of</hi> THY OWN SHAME; for our Innocency and Integrity is a<g ref="char:EOLhyphen"/>bove the Reach of thy <hi>Scurrility</hi> and <hi>Abuſe:</hi> Nay, ſuch Share hath <hi>Jer. Ives</hi> in the Hearts of ſober Men, that I am bold to ſay, <hi>Thy very</hi> Name <hi>ſhall</hi> Clear <hi>our Innocency</hi> as far as thy Tongue or Pen can <hi>Tradnce.</hi>
+            </p>
+            <p>§. 5. And ſince thy appearing in Confederacy with <hi>T. H. W. K. &amp;c.</hi> againſt us, the Queſtion has been (not by a few, and that ſober-mind<g ref="char:EOLhyphen"/>ed
+<pb n="26" facs="tcp:36455:14"/>and Conſiderable in this City) Is this <hi>That Jer. Ives?</hi> Is this <hi>That Jer. Ives?</hi> Surely not, ſay ſome. I meddle not with many THAT's; but as per<g ref="char:EOLhyphen"/>tinent to this preſent Religious Con<g ref="char:EOLhyphen"/>troverſie there yet remains a Doubt upon many, <hi>Whether thou</hi> be That <hi>Jer. Ives, that upon a Religious Account, and for his Teſtimony againſt</hi> Swearing, <hi>was caſt into</hi> New-gate <hi>in the Year</hi> 1660. <hi>&amp; after he had writ to his Brethren a Sharp Letter,</hi> dated <hi>Jan.</hi> 14. 1670. againſt <hi>Swearing;</hi> to animate them, or to rebuke them for it; <hi>in few Days after gave his Friends the</hi> Slip, <hi>&amp; got out of Priſon by</hi> Swearing <hi>before</hi> Ric. Brown; and not only ſo, but <hi>ſoon after</hi> his Liberty, printed a Plea for <hi>Swearing,</hi> to the Sorrow of his Brethren and Straightning the Bonds of his Fellow-Priſoners. This <hi>Jeremy</hi> remains upon the Spirits of many ſober Perſon in and about this City, for whoſe ſake I intimate this, that if thou beeſt miſrepreſented, thy Innocency may be <hi>cleard;</hi> or if thou art
+<pb n="27" facs="tcp:36455:14"/>the Guilty Perſon, thou mayſt <hi>Repent;</hi> &amp; in this thou art deſir'd to give <hi>Satis<g ref="char:EOLhyphen"/>faction:</hi> and withal tell us, whether a <hi>Baptiſt-Miniſter,</hi> ſo circumſtanti<g ref="char:EOLhyphen"/>ated, be a <hi>true</hi> Goſpel-Miniſter, or an <hi>Impoſtor, &amp;c.</hi> if no <hi>Impoſtor,</hi> give us the Reaſon wherefore? and if <hi>Such</hi> be <hi>True,</hi> who are <hi>Falſe?</hi> be pleaſed to explain; for it much concerns thee.</p>
+            <p>§. 6. But that I may be clear of <hi>Je<g ref="char:EOLhyphen"/>remy</hi> and his Paper, in giving my An<g ref="char:EOLhyphen"/>ſwer, whether we accept of his <hi>Chal<g ref="char:EOLhyphen"/>lenge,</hi> or diſregard his <hi>Bravado;</hi> whe<g ref="char:EOLhyphen"/>ther we go out to this <hi>Senacherib,</hi> or commit our Cauſe to the Lord; ac<g ref="char:EOLhyphen"/>cording to my preſent Apprehenſion of <hi>Jeremy</hi> and his propoſed Attempt, I give my <hi>Anſwer.</hi>
+            </p>
+            <p n="1">1. If <hi>Jeremy Ives</hi> be yet in <hi>Confede<g ref="char:EOLhyphen"/>racy</hi> with <hi>T. H. W.</hi> K. &amp;c. (as doubtleſs he is) to appear ſingly, as a <hi>Caperer,</hi> to divert, and oppoſe our preſent Purſuit againſt <hi>T. Hicks</hi> for <hi>Forgcries,</hi> &amp;c. is but a deceitful Shuffling of the
+<pb n="28" facs="tcp:36455:15"/>
+               <hi>Confederates,</hi> and decoying us from our preſent Work; And under theſe Circumſtances, <hi>Jeremy</hi>'s Barking is not worthy our Regard:</p>
+            <p n="2">2. But if <hi>Jeremy,</hi> and his Brethren, and <hi>Confederats,</hi> are Real, and hear<g ref="char:EOLhyphen"/>tily deſire the Peoples <hi>Information,</hi> and not meer <hi>Caviling</hi> &amp; <hi>Noiſe</hi> in open and publick Aſſemblies; Let them, as before propoſed, give out in Wri<g ref="char:EOLhyphen"/>ting, under all their Hands, the <hi>full Characters and certain Evidences of a True and Counterfeit Chriſtian,</hi> as alſo of the True <hi>Miniſter</hi> and <hi>Impoſtor;</hi> and tell us plainly <hi>Which</hi> &amp; <hi>Who</hi> ſuch are, proving the ſame by Holy <hi>Scripture;</hi> and then,</p>
+            <p n="3">3. We purſuing our Charge of <hi>Forgeries,</hi> in plain Matter of Fact, againſt <hi>T. H.</hi> &amp;c. if <hi>Jeremy</hi> wants Employ, he may continue, as an <hi>Auxiliary</hi> to his Brother.</p>
+            <p n="4">4. After our Charges againſt <hi>T. H.</hi> and againſt <hi>W. K.</hi> &amp;c. for abetting and countenancing his <hi>Forgeries,</hi> are
+<pb n="29" facs="tcp:36455:15"/>heard and fully debated, I doubt not we ſhall be very ready to hear <hi>Jeremy</hi> with his Brethren upon his <hi>propoſed Subject;</hi> not upon the Limit and Terms of a <hi>Bear-Garden Prize;</hi> but under ſuch, as ſo ſolid a Diſcourſe calls for and requires, committing the Rea<g ref="char:EOLhyphen"/>ſonablenes thereof to the Conſciences of the then <hi>Judicious Auditory;</hi> no ways doubting, but that in the Strength of the Lord, we ſhall be capable to <hi>detect</hi> his Folly, and <hi>maintain</hi> our Religion, as really <hi>Chriſtian,</hi> againſt all the vain and <hi>Daring</hi> Attempts, and <hi>Airy</hi> Rants of our malicious Opponents.</p>
+            <p n="5">5. But if theſe <hi>Terms</hi> will not ſerve thee, but that ſtill thou wilt appear as a <hi>Privateer</hi> againſt us, thinking by thy bawling <hi>Out-Cries</hi> to ſtill the <hi>Noiſe</hi> of our Charge of <hi>Forgery,</hi> &amp;c. exhi<g ref="char:EOLhyphen"/>bited againſt <hi>T. H.</hi> and ſtifle our juſt Complaints againſt <hi>W. K.</hi> &amp;c. by my Conſent thou ſhalt rail on, <hi>Rabſhekah<g ref="char:EOLhyphen"/>like,</hi> and boaſt as <hi>Goliah,</hi> till the juſt Hand of the Lord overtake thee; we
+<pb n="30" facs="tcp:36455:16"/>no wiſe doubting, but the <hi>Lord Jeho<g ref="char:EOLhyphen"/>vah,</hi> our Strength, will preſerve us from the <hi>Strife of Tongues</hi> and <hi>Envy</hi> of <hi>onreaſonable Men,</hi> and will alſo in due time (maugre all this Oppoſition) <hi>Clear</hi> our Innecency, and <hi>Uncover</hi> the Skirts of our Deceitful and Abuſive <hi>Adverſa<g ref="char:EOLhyphen"/>ries.</hi>
+            </p>
+            <closer>
+               <signed>T. R.</signed>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the <hi>26th of</hi> the <hi>8th</hi> Month, 1674.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:36455:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
